@@ -78,7 +78,9 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/-Quantum%20Computing-2D9CDB?logo=Qiskit&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-Competitive%20Programming-FFA500?style=flat">
+<img src="https://img.shields.io/badge/-Quantum%20Annealing-4CAF50?logo=D-Wave&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-D--Wave-FF6F00?logo=D-Wave&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-PennyLane-FF4081?logo=PennyLane&logoColor=white&style=flat">
 </div>
 
 
