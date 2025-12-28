@@ -65,8 +65,15 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-ten-eta-78.vercel.app/api?username=marcelinoSamer&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats-ten-eta-78.vercel.app//api?username=marcelinoSamer&show_icons=true&hide_border=true&theme=transparent" />
 </div>
+
+<div align="center">
+  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelinoSamer&theme=transparent" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelinoSamer&theme=transparent" />
+</div>
+
+
 
 ---
 
