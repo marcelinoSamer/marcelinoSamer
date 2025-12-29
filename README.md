@@ -70,7 +70,7 @@
 
 <div align="center">
   <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelinoSamer&theme=transparent" />
-  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcelinoSamer&theme=transparent" />
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcelinoSamer&theme=transparent" />
 </div>
 
 
