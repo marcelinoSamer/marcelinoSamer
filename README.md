@@ -68,20 +68,14 @@ The rest of the time I write TypeScript for a living: backend systems, APIs, and
 ### `>` open source & contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelinoSamer&show_icons=true&hide_border=true&theme=radical&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=e6e6e6&cache_seconds=86400" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinoSamer&layout=compact&hide_border=true&theme=radical&bg_color=0f0c29&title_color=A78BFA&text_color=e6e6e6&cache_seconds=86400" width="38%"/>
+  <img src="https://raw.githubusercontent.com/marcelinoSamer/marcelinoSamer/output/github-metrics.svg" width="80%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=marcelinoSamer&theme=radical&hide_border=true&background=0f0c29&stroke=A78BFA&ring=A78BFA&fire=A78BFA" width="70%"/>
+  <img src="https://raw.githubusercontent.com/marcelinoSamer/marcelinoSamer/output/snake.svg" width="80%"/>
 </div>
 
-> **Note:** the cards above hit shared public services (`github-readme-stats.vercel.app`, `streak-stats.demolab.com`) that can occasionally rate-limit or go down under load. A self-hosted, Action-generated alternative now runs on this repo (see `.github/workflows/profile-assets.yml`) — once it completes its first run, these can be swapped for static SVGs at:
-
-```md
-<img src="https://raw.githubusercontent.com/marcelinoSamer/marcelinoSamer/output/github-metrics.svg">
-<img src="https://raw.githubusercontent.com/marcelinoSamer/marcelinoSamer/output/snake.svg">
-```
+<p align="center"><sub>Self-hosted via GitHub Actions (<code>.github/workflows/profile-assets.yml</code>) — regenerated daily, no third-party rate limits.</sub></p>
 
 <br>
 
